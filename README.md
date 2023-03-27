@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there!<br>🌱 I'm chris ezedi a software engineer, who thrives on solving complex problems and building innovative solutions that make a difference. <br><br>🔭 I enjoy working with a wide range of technologies, including Angular, Nodejs, JavaScript,Typescript, python and django <br>and I am always eager to learn new skills and expand my knowledge.<br><br>Fun Fact: I love atronomy 🔭
+Hi there!<br>🌱 I'm chris ezedi a software engineer, who thrives on solving complex problems and building innovative solutions that make a difference. <br><br>🔭 I enjoy working with a wide range of technologies, including Angular, Nodejs, JavaScript,Typescript, python and django and I am always eager to learn new skills and expand my knowledge.<br><br>Fun Fact: I love atronomy 🔭
 
 
 ## 🌐 Socials:
